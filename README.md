@@ -24,7 +24,7 @@ O objetivo principal deste projeto foi consolidar conhecimentos em **HTML, CSS e
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/nome-do-seu-repositorio.git](https://github.com/seu-usuario/nome-do-seu-repositorio.git)
+    git clone [(https://github.com/alexsandromartin/Gerador-QrCode)](https://github.com/seu-usuario/nome-do-seu-repositorio.git)
     ```
 2.  **Abra o arquivo `index.html`** no seu navegador.
 3.  **Insira o texto ou a URL** no campo de entrada e clique no botão para gerar o QR Code.
